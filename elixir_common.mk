@@ -5,7 +5,7 @@
 #
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/zuma/overlay-evolution
+DEVICE_PACKAGE_OVERLAYS += device/google/zuma/overlay-elixir
 
 # AiAi Config
 PRODUCT_COPY_FILES += \
